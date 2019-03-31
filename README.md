@@ -1,4 +1,5 @@
-# README
-## This is the README for your extension "solitude"
 
-**Enjoy!**
+
+
+
+https://marketplace.visualstudio.com/items?itemName=AshwiniBS.solitude
