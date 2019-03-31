@@ -1,0 +1,27 @@
+{
+    "name": "solitude",
+    "displayName": "solitude",
+    "description": "Dark solitude theme",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AshwiniBS/vscode-solitude-dark"
+    },
+    "icon": "icon.png",
+    "author": "Ashwini B S",
+    "publisher": "Ashwini B S",
+    "keywords": ["solitude", "dark", "solitude dark", "pwnfunction theme"],
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Solitude Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Solitude Dark-color-theme.json"
+        }]
+    }
+}
